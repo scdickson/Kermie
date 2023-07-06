@@ -1,6 +1,6 @@
 ## Custom Badge Image
 
-![Custom image question mark.](https://raw.githubusercontent.com/scdickson/Kermie/main/Media/custom/locked.jpg)
+![Custom image question mark.](../Media/custom/locked.jpg)
 
 A custom gif may be displayed on the Kermie badge. The included script will convert an input gif into a number of compatible, 240 x 240 jpgs with transparency removed. The custom gif may have a maximum of 100 frames. Any frames over 100 will be disgrarded during playback.
 
